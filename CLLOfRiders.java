@@ -1,7 +1,7 @@
 /**
  * 
- * @author student
- * purpose: imlement a cicular linked list
+ * @author Jamey Dogom
+ * purpose: implement a cicular linked list
  */
 
 public class CLLOfRiders {

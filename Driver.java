@@ -1,7 +1,7 @@
 /**
  * 
- * @author student
- * purpose: test a cicular linked list with a simulating a line rollercoster
+ * @author Jamey Dogom
+  * purpose: test a cicular linked list with a simulating a line rollercoster
  * 
  */
 

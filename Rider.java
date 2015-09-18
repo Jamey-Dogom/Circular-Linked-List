@@ -1,6 +1,6 @@
 /**
  * 
- * @author student
+ * @author Jamey Dogom
  * purpose: Rider contains the name and status pass
  * 
  */

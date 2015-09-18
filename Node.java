@@ -1,6 +1,6 @@
 /**
  * 
- * @author student
+ * @author Jamey Dogom
  * purpose: node of a CLL
  */
 
